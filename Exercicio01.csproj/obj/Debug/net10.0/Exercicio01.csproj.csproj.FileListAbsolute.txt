@@ -12,3 +12,4 @@ C:\Users\User\Documents\academia 2026\ListaDeExercicios\Exercicio01.csproj\obj\D
 C:\Users\User\Documents\academia 2026\ListaDeExercicios\Exercicio01.csproj\obj\Debug\net10.0\Exercicio01.csproj.pdb
 C:\Users\User\Documents\academia 2026\ListaDeExercicios\Exercicio01.csproj\obj\Debug\net10.0\Exercicio01.csproj.genruntimeconfig.cache
 C:\Users\User\Documents\academia 2026\ListaDeExercicios\Exercicio01.csproj\obj\Debug\net10.0\ref\Exercicio01.csproj.dll
+C:\Users\User\Documents\academia 2026\ListaDeExercicios\Exercicio01.csproj\obj\Debug\net10.0\Exercicio01.csproj.sourcelink.json
